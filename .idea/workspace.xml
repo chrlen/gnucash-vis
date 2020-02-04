@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36123244-6936-4642-85f2-76307c73604e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2eTB073QNaBRXNQVJv378jvfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.plotly">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gnuCash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gnuCash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plotly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pred" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gnuCash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotly" />
+        <item itemvalue="Python.pred" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36123244-6936-4642-85f2-76307c73604e" name="Default Changelist" comment="" />
+      <created>1580248621905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580248621905</updated>
+      <workItem from="1580248628779" duration="4832000" />
+      <workItem from="1580258954980" duration="1096000" />
+      <workItem from="1580303516434" duration="838000" />
+      <workItem from="1580844147889" duration="1826000" />
+      <workItem from="1580850120759" duration="39000" />
+      <workItem from="1580850202941" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom" timestamp="1580845237707">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1580845237707" />
+    <state width="1874" height="281" key="GridCell.Tab.0.center" timestamp="1580845237705">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.center/0.26.1920.1054@0.26.1920.1054" timestamp="1580845237705" />
+    <state width="1874" height="281" key="GridCell.Tab.0.left" timestamp="1580845237704">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.left/0.26.1920.1054@0.26.1920.1054" timestamp="1580845237704" />
+    <state width="1874" height="281" key="GridCell.Tab.0.right" timestamp="1580845237705">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.right/0.26.1920.1054@0.26.1920.1054" timestamp="1580845237705" />
+    <state x="460" y="187" key="SettingsEditor" timestamp="1580845370942">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="460" y="187" key="SettingsEditor/0.26.1920.1054/1920.0.1920.1080@0.26.1920.1054" timestamp="1580261264124" />
+    <state x="460" y="187" key="SettingsEditor/0.26.1920.1054@0.26.1920.1054" timestamp="1580845370942" />
+    <state x="622" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580850902783">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="622" y="380" key="com.intellij.ide.util.TipDialog/0.26.1920.1054/1920.0.1920.1080@0.26.1920.1054" timestamp="1580259018576" />
+    <state x="622" y="380" key="com.intellij.ide.util.TipDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1580850902783" />
+    <state x="585" y="247" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580844820415">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="585" y="247" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.26.1920.1054@0.26.1920.1054" timestamp="1580844820415" />
+    <state x="623" y="198" width="672" height="676" key="search.everywhere.popup" timestamp="1580845366898">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="623" y="198" width="672" height="676" key="search.everywhere.popup/0.26.1920.1054@0.26.1920.1054" timestamp="1580845366898" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gnuCash$plotly.coverage" NAME="plotly Coverage Results" MODIFIED="1580845230777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gnuCash$main.coverage" NAME="main Coverage Results" MODIFIED="1580248675303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gnuCash$pred.coverage" NAME="pred Coverage Results" MODIFIED="1580844691526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
