@@ -8,10 +8,6 @@ df = pd.read_csv("dataset/export", decimal=",")
 for i in range(1, df.shape[0],2):
     df['Transaction ID'][i+1] = df['Transaction ID'][i]
 
-
-
-
-
 idAndDate = df[['Date', 'Transaction ID']]
 idToDate = {r[1][1]: r[1][0] for r in idAndDate.iterrows() if not pd.isna(r[1][1])}
 
@@ -35,9 +31,9 @@ for name in assetNames:
     y = assetSubset.loc[assetSubset['Full Account Name'] == name]['Amount Num.']
     #print(name)
     #print(x)
-    #plt.plot(x, y)
+    plt.plot(x, y)
     
-#plt.show()
+plt.show()
 # plt.plot(assetSubset.loc[assetSubset['Account Name'] == 'Creditcard']['Amount Num.'])
 
 #assets = df.loc[df['Full Account Name'].isin([
